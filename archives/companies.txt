@@ -1,0 +1,6 @@
+5-Companhia Ferroviária-200-100-50
+7-Companhia de Viação-200-100-50
+15-Companhia de Táxi-150-75-40
+25-Companhia de Navegação-150-75-40
+32-Companhia de Aviação-200-100-50
+35-Companhia de Táxi Áereo-200-100-50

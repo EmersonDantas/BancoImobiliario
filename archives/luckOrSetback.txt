@@ -1,0 +1,31 @@
+Sua empresa foi multada por poluir demais-pague-200
+O dia do seu casamento chegou, receba os presentes-casamento-50
+Reformou sua casa-pague-50
+Seu livro será publicado por uma grande editora-receba-50
+Utilize este cartão para se livrar da prisão-sairDaPrisao
+Vá para a prisão-vaParaPrisao
+Vá até o início-inicio-200
+Suas ações na bolsa de valores estão em alta-receba-100
+Você vai começar um curso de MBA e ganhou um bom desconto para pagamento a vista-pague-20
+Férias com a familia-pague-20
+Recebeu o prêmio de profissional do ano e ganhou um carro-receba-10
+Jogue os dados novamente-jogueOsDadosNovamente
+Sua empresa irá patrocinar uma expedição a Antártida-pague-50
+Vendeu a parte de sua empresa para um investidor-receba-75
+Apostou no cavalo azarão e ganhou-receba-100
+A falta de chuva prejudicou a colheita-pague-45
+Recebeu uma herança inesperada-receba-75
+Seu filho decidiu fazer intercâmbio-pague-20
+Sua casa será desapropriada para a construção de um metro e ganhará uma gorda indenização-receba-60
+Venceu licitação para grande obra-receba-150
+Seu iate afundou, mas você tinha seguro!-receba-25
+Seus funcionários entraram em greve-pague-30
+Comprou obra de arte falsificada-pague-22
+Sorte se tirou o número par da soma dos dados e revés caso contrário-parOuImpar-100
+Seu jatinho precisa de manutenção-pague-9
+Renovou a frota de carros da sua empresa-pague-100
+Ganhou sozinho na loteria-receba-80
+Atualizou os computadores da sua empresa-pague-30
+Um navio afundou com suas mercadorias (não tinha seguro)-pague-40
+Produção de leite de suas fazendas ficou abaixo da expectativa-pague-60
+Tirou primeiro lugar no torneio de golfe receba-receba-100
